@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./build",
+    "strict": false,
+    "noImplicitAny": false,
+    "importsNotUsedAsValues": "remove",
+    "lib": [
+      "ES2022",
+      "ES2022.Array",
+      "ES2021.Promise",
+      "DOM"
+    ],
+    "target": "ES2022",
+  },
+  "include": ["./src/**/*.ts"],
+  "exclude": ["./build"]
+}
