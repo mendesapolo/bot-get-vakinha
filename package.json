@@ -27,7 +27,6 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "domcrawler": "^1.3.4",
     "puppeteer": "^16.2.0"
   }
 }
