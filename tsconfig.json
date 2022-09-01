@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
+    "strict": true,
     "outDir": "./build",
-    "strict": false,
     "noImplicitAny": false,
     "importsNotUsedAsValues": "remove",
     "lib": [
@@ -10,8 +10,8 @@
       "ES2021.Promise",
       "DOM"
     ],
-    "target": "ES2022",
+    "target": "ES2015",
   },
   "include": ["./src/**/*.ts"],
-  "exclude": ["./build"]
+  "exclude": ["./build", "./node_modules"]
 }
