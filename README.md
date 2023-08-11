@@ -7,7 +7,7 @@ e salva as informações que ele extrái num ficheiro .json com formato de Array
 
 Para instalar primeiro precisas clonar o repositório e depois seguir os comandos abaixo
 
-``` cd footreport ```
+``` cd bot-get-vakinha ```
 
 ``` npm install ``` ou ``` npm i  ```
 
